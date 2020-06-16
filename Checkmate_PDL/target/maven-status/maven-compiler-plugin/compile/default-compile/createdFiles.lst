@@ -1,0 +1,17 @@
+stepDefinitions\rescind_the_transaction.class
+stepDefinitions\Registration_of_the_Borrower_PDL.class
+stepDefinitions\age_the_store.class
+stepDefinitions\CKM_PDL.class
+stepDefinitions\partial_payment_diff_no.class
+stepDefinitions\BorrowerRegistrationpage.class
+MyRunner\TestRunner2.class
+stepDefinitions\partial_payment.class
+stepDefinitions\get_the_Loan_Date_from_History.class
+stepDefinitions\new_Loan_taken_for_the_user.class
+MyRunner\TestRunner.class
+stepDefinitions\get_the_Due_Date_from_History.class
+stepDefinitions\Login.class
+stepDefinitions\partial_payment_same_no.class
+stepDefinitions\Excel.class
+stepDefinitions\void_the_transaction.class
+stepDefinitions\StepDefinations.class
